@@ -1,0 +1,32 @@
+- What I did?
+I made a set of gears that interconnect with each other, and it can be an installation sculpture piece that could interact with
+the audience. 
+
+- How I did it?
+Using two set of arduino connecting with two individual potentiometer and servo rotating two separate gears. So when the gear
+rotate, it will slowly moving the interconnected gears. *The gears are all drawn by myself, and lazer cutted then assembled
+together with dowlls. 
+
+- What I learned along the way.
+I first understand the importance of being well prepared on making the model itself. Becuase when I was making the prototype, 
+many issues have occured, such as gears not fitting; the servo was not strong enough; which piece of gear fits better in what
+position etc. These issues helped me be more prepared of making my final model so everything became easier at the end. Also, I
+think doing a lot of research online was helpful also, because I would know what have other people done in the past, then I 
+can learn and be inspired by them. 
+
+- What I would do differently.
+If I could redo the model, I would want to try using only one arduino instead of having two set of it. And I would also like to
+try working with sensors and develop the interactive part of the model even more. 
+
+- A description of the 5 most difficult problems you had and how you overcame
+them 
+1. At the beginning, the DC servo could only turn 180 degrees. But then was able to find continuous rotating servos which fit
+the program better. 
+2. Before, I was trying to control the servo with the rotary encoder, but didn't know how the code work and could not find the 
+right tutorial online. And then decide to work with potentiometer and control the speed of the servo instead of let the gear
+follow the motion of the rotary encoder. (Turned out to be a better result)
+3. Trying to make the mechanic parts working was also a chanllenge, but then having the prototype as a practice was very
+helpful.
+4. Was trying to have only one arduino to control both servos, but didn't know how, so changed to two set of arduinos. 
+5. The speed and the direction of the servo moving was also hard to adjust becuase once the rotation begin, it is very hard to 
+tell the difference. 
